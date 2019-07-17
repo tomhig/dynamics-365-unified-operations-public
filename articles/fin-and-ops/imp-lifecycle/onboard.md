@@ -33,6 +33,10 @@ ms.dyn365.ops.version: July 2017 update
 
 This topic describes how to onboard a Microsoft Dynamics 365 for Finance and Operations project by using Microsoft Dynamics Lifecycle Services (LCS).
 
+## Microsoft Admin Center
+
+Once a subscription to Finance and Operations has been purchased, the Organization Tenant Administrator must confirm that the subscription is added to the organization's Azure Active Directory (AAD) Tenant and activate the subscription. 
+
 ## LCS Implementation project workspace
 
 After you have purchased and activated a subscription to Finance and Operations, an **Implementation project** workspace is provisioned in LCS when the tenant administrator signs in for the first time. If you are a customer and require help to get started with LCS, see [Lifecycle Services for Finance and Operations customers](../../dev-itpro/lifecycle-services/lcs-works-lcs.md). For a comprehensive overview of LCS, see [Overview of Lifecycle Services](../../dev-itpro/lifecycle-services/lcs-works-lcs.md).
